@@ -1,4 +1,4 @@
-# youtube_demo-messages_api-laravel-whatsapp
+# Send & Receive WhatsApp Messages With Laravel & Monitor With Nightwatch
 How to use Messages API with Laravel and monitor with Laravel Nightwatch
 
 ## Prerequisites
